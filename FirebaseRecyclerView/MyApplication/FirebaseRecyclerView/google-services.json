@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702378165517",
+    "firebase_url": "https://demobytegenius.firebaseio.com",
+    "project_id": "demobytegenius",
+    "storage_bucket": "demobytegenius.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702378165517:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702378165517-2idnpeam5cp3ee4fcc2ijdhib5igtpo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "1dca5232f985e885277bfa78b3bdd971de98a5e8"
+          }
+        },
+        {
+          "client_id": "702378165517-7rp68qif79ap5ftskpsihc38smo1ovn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ybKfOfA2jPlYYf97GboWi38lc9M6TBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702378165517-7rp68qif79ap5ftskpsihc38smo1ovn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
